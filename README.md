@@ -1,6 +1,6 @@
 # Java-Projects
 
-For crcCalculator:
+For CrcCalculator:
 
   - To compile use the following command line argument: javac crcheck.java 
 
